@@ -1,2 +1,5 @@
 folium==0.12.1
 voila==0.3.2
+math==3.10.2
+tkinter==3.10.2
+ipywidgets==8.0.0b1
